@@ -1,4 +1,13 @@
-### Hi there 👋
+<table>
+    <tr>
+        <td align="center">
+            <img src="https://github-readme-stats-lake-nine.vercel.app/api?username=kadirkiras&count_private=true&show_icons=true&theme=gotham"/>
+        </td>
+        <td align="center">
+            <img src="https://github-readme-stats-lake-nine.vercel.app/api/top-langs/?username=kadirkiras&theme=gotham&layout=compact&langs_count=8" />
+        </td>
+    </tr>
+</table>
 
 <!--
 **kadirkiras/kadirkiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
