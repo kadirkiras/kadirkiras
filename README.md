@@ -1,4 +1,9 @@
+<div align="center">
+  <img src="https://media1.tenor.com/m/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif" alt="Hello There GIF" />
+</div>
 <h1 align="center">Hey 👋, I'm Kadir Kiraş</h1>
+
+
 
 <p align="center">A passionate software developer constantly exploring new technologies and crafting clean, modular, and scalable code.</p>
 
