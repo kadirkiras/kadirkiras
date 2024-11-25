@@ -56,11 +56,6 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats-lake-nine.vercel.app/api?username=kadirkiras&count_private=true&show_icons=true&theme=dark" height="220"/>
-  <img src="https://github-readme-stats-lake-nine.vercel.app/api/top-langs/?username=kadirkiras&theme=dark&layout=compact&langs_count=8" height="220" />
-</div>
-
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -83,6 +78,20 @@ Here are some ideas to get you started:
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+
+<table>
+    <tr>
+        <td align="center">
+         <img src="https://github-readme-stats-lake-nine.vercel.app/api?username=kadirkiras&count_private=true&show_icons=true&theme=dark" height="220"/>
+        </td>
+         <td align="center">
+            <img src="https://github-readme-stats-lake-nine.vercel.app/api/top-langs/?username=kadirkiras&theme=dark&layout=compact&langs_count=8" height="220" />
+        </td>
+           <td align="center">
+            <img src="https://streak-stats.demolab.com?user=kadirkiras&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+        </td>
+    </tr>
+</table>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kadirkiras&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
