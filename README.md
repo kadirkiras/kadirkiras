@@ -56,7 +56,6 @@ Here are some ideas to get you started:
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;"  align="center">
   <img src="https://github-readme-stats-lake-nine.vercel.app/api?username=kadirkiras&count_private=true&show_icons=true&theme=dark" height="180" alt="GitHub Stats" />
-      <img width="50" />
   <img src="https://github-readme-stats-lake-nine.vercel.app/api/top-langs/?username=kadirkiras&theme=dark&layout=compact&langs_count=8" height="180" alt="Top Languages" />
 </div>
 
