@@ -52,49 +52,35 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
-###
-
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<table>
-    <tr>
-        <td align="center">
-         <img src="https://github-readme-stats-lake-nine.vercel.app/api?username=kadirkiras&count_private=true&show_icons=true&theme=dark" height="220"/>
-        </td>
-         <td align="center">
-            <img src="https://github-readme-stats-lake-nine.vercel.app/api/top-langs/?username=kadirkiras&theme=dark&layout=compact&langs_count=8" height="220" />
-        </td>
-           <td align="center">
-            <img src="https://streak-stats.demolab.com?user=kadirkiras&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-        </td>
-    </tr>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-lake-nine.vercel.app/api?username=kadirkiras&count_private=true&show_icons=true&theme=dark" height="180" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-lake-nine.vercel.app/api/top-langs/?username=kadirkiras&theme=dark&layout=compact&langs_count=8" height="180" alt="Top Languages" />
+    </td>
+  </tr>
 </table>
 
+---
+
+<h3 align="center">🛠 Languages and Tools</h3>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kadirkiras&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
 </div>
 
-###
+---
+
+<h3 align="center">🔥 My Stats</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kadirkiras&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="180" alt="Streak Stats" />
+</div>
