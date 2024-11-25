@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3 align="center">🛠 Languages and Tools</h3>
+<h3>🛠 Languages and Tools</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3 align="center">🔥 My Stats</h3>
+<h3>🔥 My Stats</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kadirkiras&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="180" alt="Streak Stats" />
